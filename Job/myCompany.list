@@ -1,5 +1,5 @@
-# 代理列表
-
-DOMAIN-SUFFIX,rollbit.com
+# 线上环境
 DOMAIN-SUFFIX,detrade.com
+
+# 测试环境
 DOMAIN-SUFFIX,testwww.exchange2currency.com

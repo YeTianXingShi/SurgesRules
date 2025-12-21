@@ -1,0 +1,8 @@
+
+# VPN后台
+DOMAIN,ksnhxcg.managea.de
+IP-CIDR,52.223.28.81/32,DIRECT,no-resolve
+IP-CIDR,15.197.84.129/32,DIRECT,no-resolve
+
+# 管理后台-测试
+DOMAIN,testadmin-web.managea.de
