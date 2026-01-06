@@ -8,3 +8,6 @@ DOMAIN-SUFFIX, testwww.exchange2currency.com
 DOMAIN, ksnhxcg.managea.de
 IP-CIDR, 15.197.84.129/32, no-resolve
 IP-CIDR, 52.223.28.81/32, no-resolve
+
+# wireguard Endpoint
+DOMAIN, a4cc3f99720ccb6b2.awsglobalaccelerator.com
