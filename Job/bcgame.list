@@ -1,0 +1,5 @@
+# Test
+DOMAIN-SUFFIX,test-bc.top
+
+# Production
+DOMAIN-SUFFIX,bc.game
